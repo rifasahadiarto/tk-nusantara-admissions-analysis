@@ -6,7 +6,8 @@
 ![Excel](https://img.shields.io/badge/Excel-Power%20ETL-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 
 ---
-
+## 🖥️ Live Interactive Dashboard
+> 🔗 **[Klik di Sini untuk Membuka Dashboard Interaktif di Tableau Public](https://public.tableau.com/app/profile/rifasa.hadiarto/viz/TKNusantara-AdmissionsTuitionSubsidyAnalysis/Dashboard1?publish=yes)**
 ## 📌 Executive Summary
 
 Proyek ini menganalisis **285 data mentah pendaftaran siswa baru** di TK Nusantara (Kecamatan Parongpong, Kabupaten Bandung Barat). 
