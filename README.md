@@ -1,4 +1,4 @@
-# 🎓 TK Nusantara — Admissions Analytics & Sliding-Scale Tuition Subsidy Modeling
+# TK Nusantara — Admissions Analytics & Sliding-Scale Tuition Subsidy Modeling
 
 ![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -6,9 +6,9 @@
 ![Excel](https://img.shields.io/badge/Excel-Power%20ETL-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 
 ---
-## 🖥️ Live Interactive Dashboard
-> 🔗 **[Klik di Sini untuk Membuka Dashboard Interaktif di Tableau Public](https://public.tableau.com/app/profile/rifasa.hadiarto/viz/TKNusantara-AdmissionsTuitionSubsidyAnalysis/Dashboard1?publish=yes)**
-## 📌 Executive Summary
+## Live Interactive Dashboard
+ **[Klik di Sini untuk Membuka Dashboard Interaktif di Tableau Public](https://public.tableau.com/app/profile/rifasa.hadiarto/viz/TKNusantara-AdmissionsTuitionSubsidyAnalysis/Dashboard1?publish=yes)**
+## Executive Summary
 
 Proyek ini menganalisis **285 data mentah pendaftaran siswa baru** di TK Nusantara (Kecamatan Parongpong, Kabupaten Bandung Barat). 
 
@@ -19,7 +19,7 @@ Karena institusi ini menerapkan **kebijakan biaya SPP berbasis kemampuan finansi
 
 ---
 
-## 🔍 Masalah Bisnis & Kebutuhan Analisis
+## Masalah Bisnis & Kebutuhan Analisis
 
 1. **Inkonsistensi & Duplikasi Data Lapangan:**  
    Pihak sekolah memperbarui formulir pendaftaran di tengah periode penerimaan murid (menambahkan pertanyaan NIK, kelas, dan pendidikan orang tua), mengakibatkan banyak wali murid mendaftar ulang berkali-kali.
@@ -30,7 +30,7 @@ Karena institusi ini menerapkan **kebijakan biaya SPP berbasis kemampuan finansi
 
 ---
 
-## 🛠️ Alur Kerja & Pipeline Data (ETL)
+## Alur Kerja & Pipeline Data (ETL)
 
 ```
 [Google Form Raw Data]
@@ -52,7 +52,7 @@ Karena institusi ini menerapkan **kebijakan biaya SPP berbasis kemampuan finansi
 
 ---
 
-## 📊 Temuan Kunci (Key Business Insights)
+## Temuan Kunci (Key Business Insights)
 
 | No | Metrik / Aspek | Temuan Data | Dampak Bisnis |
 | :---: | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ Karena institusi ini menerapkan **kebijakan biaya SPP berbasis kemampuan finansi
 
 ---
 
-## 💡 Rekomendasi Strategis untuk Yayasan
+## Rekomendasi Strategis untuk Yayasan
 
 1. **Implementasi Matriks Kategori SPP Subsidi Silang:**
    * **Prioritas 1 (Subsidi Penuh):** Siswa yatim/piatu ATAU ayah buruh harian lepas dengan tanggungan $\ge 3$ anak.
@@ -76,7 +76,7 @@ Karena institusi ini menerapkan **kebijakan biaya SPP berbasis kemampuan finansi
 
 ---
 
-## 📂 Struktur Repositori
+## Struktur Repositori
 
 ```
 ├── README.md                 # Dokumentasi lengkap studi kasus & metodologi
@@ -90,7 +90,7 @@ Karena institusi ini menerapkan **kebijakan biaya SPP berbasis kemampuan finansi
 
 ---
 
-## 👤 Author & Profil Analis
+## Author & Profil Analis
 
 * **Nama:** Rifasa Hadiarto
 * **Sertifikasi:** Certified Data Analyst — Badan Nasional Sertifikasi Profesi (BNSP)
