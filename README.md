@@ -1,12 +1,5 @@
 # TK Nusantara — Admissions Analytics & Sliding-Scale Tuition Subsidy Modeling
 
-![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced%20Queries-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Power%20ETL-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
-
----
-
 ## Executive Summary
 
 Proyek ini menganalisis **285 data mentah pendaftaran siswa baru** di TK Nusantara (Kecamatan Parongpong, Kabupaten Bandung Barat). 
