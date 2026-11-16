@@ -1,4 +1,4 @@
-# TK Nusantara — Admissions Analytics & Sliding-Scale Tuition Subsidy Modeling
+# TK Nusantara - Admissions Analytics & Sliding-Scale Tuition Subsidy Modeling
 
 ## Executive Summary
 
